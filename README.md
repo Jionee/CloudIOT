@@ -4,9 +4,6 @@ Using AWS, let's make Cloud IOT System!
 # Using 
 AWS EC2, lambda, iot services
 
-# CloudIOT
-Cloud IOT (AWS EC2, lambda, iot services)
-
 # #1
 - AWS EC2 서버 생성 후 MQTT를 이용한 서버 통신   
 ![image](https://user-images.githubusercontent.com/49470328/119436093-80c28180-bd56-11eb-8915-8105d228df33.png)   
